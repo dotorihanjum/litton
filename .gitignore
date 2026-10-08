@@ -149,6 +149,8 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# 토큰 사용량 기록
+logs/
 # Environments
 .env
 .envrc
